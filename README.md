@@ -22,9 +22,11 @@ This project is a fully functional E-commerce website built using PHP and MySQL.
 - Bootstrap (for styling)
 - JavaScript
 
-## Project Screenshot 
+## 📸 Project Screenshot 
 
+<img width="1920" height="979" alt="Image" src="https://github.com/user-attachments/assets/888e8518-2c65-4b9d-9792-03e1ee610561" />
 
+<img width="1920" height="977" alt="Image" src="https://github.com/user-attachments/assets/b44599a7-782c-4d4a-bcdc-200f24a150d0" />
 
 ## 🚀 How to Run
 
