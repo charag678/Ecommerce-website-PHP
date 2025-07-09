@@ -32,5 +32,6 @@ Import shop_db.sql into your MySQL database.
 
 Start your local server (XAMPP/WAMP) and navigate to:
 
-👨‍💻 Author
- charag678
+## 👨‍💻 Authors
+
+- [@charag678](https://www.github.com/charag678)
