@@ -22,38 +22,16 @@ This project is a fully functional E-commerce website built using PHP and MySQL.
 - Bootstrap (for styling)
 - JavaScript
 
-## 📁 Project Structure
-
-/admin --> Admin dashboard files
-/cart --> Cart operations
-/includes --> Database and header/footer files
-/uploads --> Product images
-index.php --> Homepage
-login.php --> User login
-register.php --> User registration
-...
-
-bash
-Copy
-Edit
-
 ## 🚀 How to Run
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/charag678/Ecommerce-website-PHP.git
+   git clone https://github.com/user_name/Ecommerce-website-PHP.git
 Import ecommerce.sql into your MySQL database.
 
 Update database credentials in /includes/db.php.
 
 Start your local server (XAMPP/WAMP) and navigate to:
 
-arduino
-Copy
-Edit
-http://localhost/Ecommerce-website-PHP/
-
 👨‍💻 Author
-Chirag Sharma
-
-GitHub: charag678
+ charag678
