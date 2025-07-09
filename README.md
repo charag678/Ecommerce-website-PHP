@@ -24,7 +24,7 @@ This project is a fully functional E-commerce website built using PHP and MySQL.
 
 ## Project Screenshot 
 
-![Image](https://github.com/user-attachments/assets/bc8793ca-5d45-4811-8697-2d30120ea25e)
+
 
 ## 🚀 How to Run
 
