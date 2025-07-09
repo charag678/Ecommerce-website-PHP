@@ -27,9 +27,8 @@ This project is a fully functional E-commerce website built using PHP and MySQL.
 1. Clone the repository:
    ```bash
    git clone https://github.com/user_name/Ecommerce-website-PHP.git
-Import ecommerce.sql into your MySQL database.
-
-Update database credentials in /includes/db.php.
+   
+Import shop_db.sql into your MySQL database.
 
 Start your local server (XAMPP/WAMP) and navigate to:
 
